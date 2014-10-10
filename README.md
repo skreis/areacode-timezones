@@ -6,3 +6,7 @@ Mapping of areacode (or country code, prefixed by '+') to TZ IDs, as described b
 
 * JSON
 * MySQL table dump
+
+## License
+
+See [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
