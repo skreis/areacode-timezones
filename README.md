@@ -9,4 +9,4 @@ Mapping of areacode (or country code, prefixed by '+') to TZ IDs, as described b
 
 ## License
 
-See [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+See [LICENSE](https://github.com/skreis/areacode-timezones/blob/master/LICENSE).
